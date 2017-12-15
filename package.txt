@@ -1,0 +1,5 @@
+NAME=curl
+VERSION=7.55.1
+REVISION=1
+SRC=https://curl.haxx.se/download/curl-7.55.1.tar.xz
+SRCMD5=ac4a59c38c47adc160ea71eace20257b
