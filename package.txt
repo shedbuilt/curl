@@ -1,5 +1,7 @@
 NAME=curl
-VERSION=7.55.1
+VERSION=7.60.0
 REVISION=1
-SRC=https://curl.haxx.se/download/curl-7.55.1.tar.xz
-SRCMD5=ac4a59c38c47adc160ea71eace20257b
+SRC=https://curl.haxx.se/download/curl-7.60.0.tar.xz
+SRCMD5=a889cd11b4ae8794b7030472cb4df0a0
+OPTIONS=bootstrap|release (docs)
+DEFAULTS=release docs
